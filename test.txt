@@ -16,5 +16,6 @@ int main(){
     fun1();
     fun2();i
     demo();
+    printf("添加的信息！");
     return 0;
 }

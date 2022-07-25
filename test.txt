@@ -4,7 +4,17 @@ void demo(){
     return;
 }
 
+void fun1(){
+    printf("hello world 1");
+}
+
+void fun2(){
+    printf("hello world 2");
+}
+
 int main(){
+    fun1();
+    fun2();i
     demo();
     return 0;
 }
